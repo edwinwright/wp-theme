@@ -1,4 +1,4 @@
-wp-theme-seed
-=============
+wp-theme
+========
 
-Project seed for a WordPress theme
+Seed files for a WordPress theme
